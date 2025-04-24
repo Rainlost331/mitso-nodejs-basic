@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/KalinkinFiz/mitso-nodejs-basic/issues"
   },
-  "homepage": "https://github.com/KalinkinFiz/mitso-nodejs-basic#readme"
+  "homepage": "https://github.com/KalinkinFiz/mitso-nodejs-basic#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
 }
